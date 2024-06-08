@@ -59869,7 +59869,7 @@ m=A.du(o,A.aE(a,o,m).w.a.b*0.1,o)
 s=A.dP(o,o,o,o,o,B.br,p.d,"User Name ")
 r=p.r
 q=t.p
-q=A.a([new A.aJ(B.Ol,A.aW(A.a([B.a3L,n,l,k,new A.Yh("Northern University Nowshera",o),m,s,new A.aJ(B.d1,A.aWd(!0,B.dG,!1,o,!0,B.S,o,A.b6K(),p.e,o,o,o,o,o,2,A.F3(o,B.mE,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,"Password",o,o,o,o,o,o,o,o,A.y5(o,A.jn(r?B.TK:B.TJ,o,o,o),o,new A.aGq(p),o,o),o,o,o,o),B.af,!0,o,!0,o,!1,o,o,o,o,o,o,o,1,o,o,r,"\u2022",o,o,o,o,o,!1,o,!1,o,!0,o,B.ln,o,o,B.dq,B.cA,o,o,o,o,o,o,o,B.aS,o,B.nv,o,o,o,o),o),new A.dX("Login",new A.aGr(p),o,o,o)],q),B.o,B.r,B.n),o)],q)
+q=A.a([new A.aJ(B.Ol,A.aW(A.a([B.a3L,n,l,k,new A.Yh("Northern University Nowsheraa",o),m,s,new A.aJ(B.d1,A.aWd(!0,B.dG,!1,o,!0,B.S,o,A.b6K(),p.e,o,o,o,o,o,2,A.F3(o,B.mE,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,"Password",o,o,o,o,o,o,o,o,A.y5(o,A.jn(r?B.TK:B.TJ,o,o,o),o,new A.aGq(p),o,o),o,o,o,o),B.af,!0,o,!0,o,!1,o,o,o,o,o,o,o,1,o,o,r,"\u2022",o,o,o,o,o,!1,o,!1,o,!0,o,B.ln,o,o,B.dq,B.cA,o,o,o,o,o,o,o,B.aS,o,B.nv,o,o,o,o),o),new A.dX("Login",new A.aGr(p),o,o,o)],q),B.o,B.r,B.n),o)],q)
 if(p.f)q.push(B.a1u)
 return A.fv(o,A.fA(A.hi(B.bo,q,B.S,B.aQ,o),o,o,B.F),o,o,o)}}
 A.aGs.prototype={
